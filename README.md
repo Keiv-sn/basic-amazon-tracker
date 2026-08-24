@@ -1,4 +1,4 @@
-# Amazon-global-price-tracker
+# Basic-amazon-tracker
 
 Trackea precios de amazon y genera grafico simple
 
